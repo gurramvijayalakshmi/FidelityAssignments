@@ -12,7 +12,7 @@ INSERT INTO Worker (WORKER_ID, FIRST_NAME, LAST_NAME, SALARY, JOINING_DATE, DEPA
 VALUES
 (1, 'Monika', 'Arora', 100000, '2020-02-14', 'HR'),
 (2, 'Niharika', 'Verma', 80000, '2011-02-14', 'Admin'),
-(3, 'Vishal', 'Singhal', 300000, '2020-02-14', 'HR'),  -- Corrected quotes
+(3, 'Vishal', 'Singhal', 300000, '2020-02-14', 'HR'),  
 (4, 'Amitabh', 'Singh', 500000, '2020-02-14', 'Admin'),
 (5, 'Vivek', 'Bhati', 500000, '2011-06-14', 'Admin'),   
 (6, 'Vipul', 'Diwan', 200000, '2011-06-14', 'Account'),   
